@@ -1,5 +1,7 @@
 # Real-Time Anomaly Detection for Network Intrusion Identification Using Deep Autoencoders
 
+**[Try the live anomaly-detection demo](https://sohan-live-project-lab.miryalkarsohan.chatgpt.site/#intrusion)**
+
 **Course:** INFO-629-001 Applied Artificial Intelligence  
 **University:** Drexel University  
 **Students:** Madam Kumar Mothkur & Sohan Miryalkar  
